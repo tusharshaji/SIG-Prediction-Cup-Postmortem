@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img">
+<title>Daily change in leaderboard value, SIG Predictions Cup 2026</title><desc>Two very large days on 3 and 4 October, then small daily changes for four weeks, a small move on election night, and a final rise as markets settled.</desc>
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="40.0" y="50.0" font-size="26" fill="#1f2328" text-anchor="start" font-weight="600">Nearly two-thirds of the profit came in the first three days</text>
+<text x="40.0" y="80.0" font-size="15" fill="#59636e" text-anchor="start" font-weight="400">Change in leaderboard value per New York day. It includes price moves on positions held to settlement; the last bar is the board catching up as markets settled.</text>
+<line x1="120" y1="470.0" x2="1120" y2="470.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="108.0" y="475.0" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">-50k</text>
+<line x1="120" y1="401.6" x2="1120" y2="401.6" stroke="#e3e8ee" stroke-width="1"/>
+<text x="108.0" y="406.6" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">0</text>
+<line x1="120" y1="333.2" x2="1120" y2="333.2" stroke="#e3e8ee" stroke-width="1"/>
+<text x="108.0" y="338.2" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">+50k</text>
+<line x1="120" y1="264.8" x2="1120" y2="264.8" stroke="#e3e8ee" stroke-width="1"/>
+<text x="108.0" y="269.8" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">+100k</text>
+<line x1="120" y1="196.4" x2="1120" y2="196.4" stroke="#e3e8ee" stroke-width="1"/>
+<text x="108.0" y="201.4" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">+150k</text>
+<line x1="120" y1="128.0" x2="1120" y2="128.0" stroke="#e3e8ee" stroke-width="1"/>
+<text x="108.0" y="133.0" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">+200k</text>
+<rect x="1034.3" y="128" width="57.1" height="342" fill="#0e6b66" fill-opacity="0.07"/>
+<text x="1091.4" y="118.0" font-size="14" fill="#59636e" text-anchor="end" font-weight="400">Election night</text>
+<path d="M124.9,401.6 V195.6 Q124.9,191.6 128.9,191.6 H139.7 Q143.7,191.6 143.7,195.6 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<text x="130.3" y="181.6" font-size="14" fill="#1f2328" text-anchor="middle" font-weight="600">+153k</text>
+<text x="134.3" y="498.0" font-size="14" fill="#59636e" text-anchor="middle" font-weight="400">Oct 1-2</text>
+<path d="M153.4,401.6 V156.5 Q153.4,152.5 157.4,152.5 H168.3 Q172.3,152.5 172.3,156.5 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<text x="162.9" y="142.5" font-size="14" fill="#1f2328" text-anchor="middle" font-weight="600">+182k</text>
+<path d="M182.0,401.6 V378.1 Q182.0,374.1 186.0,374.1 H196.9 Q200.9,374.1 200.9,378.1 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M210.6,401.6 V373.4 Q210.6,369.4 214.6,369.4 H225.4 Q229.4,369.4 229.4,373.4 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M239.1,401.6 V369.8 Q239.1,365.8 243.1,365.8 H254.0 Q258.0,365.8 258.0,369.8 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M267.7,401.6 V402.3 Q267.7,398.3 271.7,398.3 H282.6 Q286.6,398.3 286.6,402.3 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M296.3,401.6 V391.6 Q296.3,387.6 300.3,387.6 H311.1 Q315.1,387.6 315.1,391.6 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<text x="305.7" y="498.0" font-size="14" fill="#59636e" text-anchor="middle" font-weight="400">Oct 8</text>
+<path d="M324.9,401.6 V395.4 Q324.9,391.4 328.9,391.4 H339.7 Q343.7,391.4 343.7,395.4 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M353.4,401.6 V399.1 Q353.4,395.1 357.4,395.1 H368.3 Q372.3,395.1 372.3,399.1 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M382.0,401.6 V397.9 Q382.0,393.9 386.0,393.9 H396.9 Q400.9,393.9 400.9,397.9 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M410.6,401.6 V399.3 Q410.6,395.3 414.6,395.3 H425.4 Q429.4,395.3 429.4,399.3 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M439.1,401.6 V385.9 Q439.1,381.9 443.1,381.9 H454.0 Q458.0,381.9 458.0,385.9 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M467.7,401.6 V395.7 Q467.7,391.7 471.7,391.7 H482.6 Q486.6,391.7 486.6,395.7 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M496.3,401.6 V382.2 Q496.3,378.2 500.3,378.2 H511.1 Q515.1,378.2 515.1,382.2 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<text x="505.7" y="498.0" font-size="14" fill="#59636e" text-anchor="middle" font-weight="400">Oct 15</text>
+<path d="M524.9,401.6 V404.8 Q524.9,400.8 528.9,400.8 H539.7 Q543.7,400.8 543.7,404.8 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M553.4,401.6 V399.6 Q553.4,395.6 557.4,395.6 H568.3 Q572.3,395.6 572.3,399.6 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M610.6,401.6 V402.7 Q610.6,406.7 614.6,406.7 H625.4 Q629.4,406.7 629.4,402.7 V401.6 Z" fill="#b45309" fill-opacity="1"/>
+<path d="M667.7,401.6 V391.1 Q667.7,387.1 671.7,387.1 H682.6 Q686.6,387.1 686.6,391.1 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M696.3,401.6 V392.4 Q696.3,388.4 700.3,388.4 H711.1 Q715.1,388.4 715.1,392.4 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<text x="705.7" y="498.0" font-size="14" fill="#59636e" text-anchor="middle" font-weight="400">Oct 22</text>
+<path d="M724.9,401.6 V396.2 Q724.9,392.2 728.9,392.2 H739.7 Q743.7,392.2 743.7,396.2 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M753.4,401.6 V399.2 Q753.4,395.2 757.4,395.2 H768.3 Q772.3,395.2 772.3,399.2 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M782.0,401.6 V399.3 Q782.0,395.3 786.0,395.3 H796.9 Q800.9,395.3 800.9,399.3 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M810.6,401.6 V401.2 Q810.6,405.2 814.6,405.2 H825.4 Q829.4,405.2 829.4,401.2 V401.6 Z" fill="#b45309" fill-opacity="1"/>
+<path d="M839.1,401.6 V394.6 Q839.1,390.6 843.1,390.6 H854.0 Q858.0,390.6 858.0,394.6 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M867.7,401.6 V416.2 Q867.7,420.2 871.7,420.2 H882.6 Q886.6,420.2 886.6,416.2 V401.6 Z" fill="#b45309" fill-opacity="1"/>
+<path d="M896.3,401.6 V410.5 Q896.3,414.5 900.3,414.5 H911.1 Q915.1,414.5 915.1,410.5 V401.6 Z" fill="#b45309" fill-opacity="1"/>
+<text x="905.7" y="498.0" font-size="14" fill="#59636e" text-anchor="middle" font-weight="400">Oct 29</text>
+<path d="M924.9,401.6 V394.4 Q924.9,390.4 928.9,390.4 H939.7 Q943.7,390.4 943.7,394.4 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M953.4,401.6 V402.0 Q953.4,406.0 957.4,406.0 H968.3 Q972.3,406.0 972.3,402.0 V401.6 Z" fill="#b45309" fill-opacity="1"/>
+<path d="M1039.1,401.6 V403.1 Q1039.1,399.1 1043.1,399.1 H1054.0 Q1058.0,399.1 1058.0,403.1 V401.6 Z" fill="#0e6b66" fill-opacity="1"/>
+<path d="M1067.7,401.6 V419.4 Q1067.7,423.4 1071.7,423.4 H1082.6 Q1086.6,423.4 1086.6,419.4 V401.6 Z" fill="#b45309" fill-opacity="1"/>
+<path d="M1096.3,401.6 V365.9 Q1096.3,361.9 1100.3,361.9 H1111.1 Q1115.1,361.9 1115.1,365.9 V401.6 Z" fill="#0e6b66" fill-opacity="0.45"/>
+<text x="1105.7" y="351.9" font-size="14" fill="#1f2328" text-anchor="middle" font-weight="400">+29k</text>
+<text x="1105.7" y="498.0" font-size="14" fill="#59636e" text-anchor="middle" font-weight="400">after</text>
+<line x1="120" y1="401.6" x2="1120" y2="401.6" stroke="#c9d1d9" stroke-width="1.5"/>
+</svg>
